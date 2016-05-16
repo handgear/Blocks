@@ -7,4 +7,4 @@ Educational Toy based on IoT device
 
 
 # Video Link
-[![Blocks](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/CeeUtMo8t5Q "Blocks")
+[![Blocks](https://raw.githubusercontent.com/handgear/Blocks/master/thumbnail.jpg)](https://youtu.be/CeeUtMo8t5Q "Blocks")
